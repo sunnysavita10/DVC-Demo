@@ -29,3 +29,10 @@ touch README.md
 ```
 pip install -r requirements.txt
 ```
+```
+dvc repro
+```
+
+```
+dvc dag
+```
